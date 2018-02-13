@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+a:link {
+    color: #FFFFFF;
+}
+
+a:hover {
+    color: gray;
+}
+
+a:visited {
+    color: #FFFFFF;
+}
+
+.container {
+    margin: 25px 400px;
+    padding: 40px;
+    color: #FFFFFF;
+    background-color: #000000;
+}
+
+.footer {
+    font-size: 10px;
+    color: gray;
+}
