@@ -4,7 +4,7 @@ body {
 }
 
 a:link {
-    color: #FFFFFF;
+    color: #000000;
 }
 
 a:hover {
@@ -12,14 +12,14 @@ a:hover {
 }
 
 a:visited {
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .container {
     margin: 25px 400px;
-    padding: 40px;
-    color: #FFFFFF;
-    background-color: #000000;
+    padding: 20px;
+    border-style: solid;
+    border-width: 2px;
 }
 
 .footer {
