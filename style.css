@@ -1,6 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    display: table-cell;
+    vertical-align: middle;
 }
 
 a:link {
@@ -16,7 +27,7 @@ a:visited {
 }
 
 .container {
-    margin: 25px 400px;
+    width: 600px;
     padding: 20px;
     border-style: solid;
     border-width: 4px;
